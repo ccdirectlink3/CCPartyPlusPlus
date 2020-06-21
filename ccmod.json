@@ -1,0 +1,6 @@
+{
+  "id": "party-plus-plus",
+  "version": "2.0.0",
+  "title": "Party++",
+  "prestart": "prestart.js"
+}
